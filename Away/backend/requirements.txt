@@ -1,0 +1,9 @@
+fastAPI
+uvicorn
+langchain
+supabase
+pydantic
+python-jose
+dotenv
+httpx
+asyncio
